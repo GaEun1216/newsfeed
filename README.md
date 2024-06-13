@@ -10,15 +10,12 @@
 
 ## 👨‍👩‍👧‍👦팀 소개 및 역할 분담
 
-# Team Members
+### Team Members
 
-| 이가                         | 김경태                         | 김세림                         | 정현경                         | 최현진                         |
+| 이가은                         | 김경태                         | 김세림                         | 정현경                         | 최현진                         |
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| [![이가은](https://github.com/GaEun1216.png)](https://github.com/GaEun1216) |
-[![김경태](https://github.com/kyungtae42.png)](https://github.com/kyungtae42)) |
-[![김세림]https://github.com/serim01.png)](https://github.com/serim01) | 
-[![정현경](https://github.com/hyun1202.png)](https://github.com/hyun1202) 
-| [![최현진](https://github.com/HyeonjinChoi.png)](https://github.com/HyeonjinChoi) |
+| [![이가은](https://github.com/GaEun1216.png)](https://github.com/GaEun1216) | [![김경태](https://github.com/kyungtae42.png)](https://github.com/kyungtae42) | [![김세림](https://github.com/serim01.png)](https://github.com/serim01) | [![정현경](https://github.com/hyun1202.png)](https://github.com/hyun1202) | [![최현진](https://github.com/HyeonjinChoi.png)](https://github.com/HyeonjinChoi) |
+
 
 
 1. 팀명 : TIl
