@@ -1,4 +1,4 @@
-package com.sparta.newspeed.auth.service;
+package com.sparta.newspeed.x.service;
 
 import org.springframework.boot.test.context.SpringBootTest;
 

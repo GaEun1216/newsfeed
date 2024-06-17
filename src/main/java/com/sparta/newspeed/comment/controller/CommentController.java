@@ -59,7 +59,7 @@ public class CommentController {
             @PathVariable(name = "commentId") long commentId,
             @AuthenticationPrincipal UserDetailsImpl userDetails) {
 
-        commentService.deleteComment(newsfeedId, commentId, userDetails.getUser());
+        commentService.deleteComment(newsfeedId , commentId, userDetails.getUser());
         return ResponseEntity.noContent().build();
     }
 }

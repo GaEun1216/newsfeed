@@ -3,7 +3,6 @@ package com.sparta.newspeed.aop;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
-import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
@@ -33,6 +32,7 @@ public class LoggingAspect {
 
     @Around("controller()")
     public Object logBeforeControllerMethods(ProceedingJoinPoint joinPoint) throws Throwable {
+
         HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
 
         Map<String, Object> params = new HashMap<>();
